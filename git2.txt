@@ -1,2 +1,1 @@
-master change txt 
-dev1 txt 
+"master change txt \r\n dev1 txt \r\n dev1 newline "
